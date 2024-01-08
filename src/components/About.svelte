@@ -36,17 +36,16 @@
   >
     <div class="font-bold text-4xl mobile:text-3xl">Get to know me</div>
     <div class="font-black text-7xl py-8 mobile:text-4xl">
-      I CREATE INTERACTIVE WEB DESIGN
+      Tushar Khandelwal
     </div>
     <div
       class="py-12 font-semibold text-2xl p-page text-justify mobile:py-3 mobile:text-lg"
     >
-      A full-stack developer, having a strong understanding of Python and web
-      development. With a long-standing passion for programming and a commitment
-      to staying current with the latest technologies, I strive to deliver
-      efficient and high-quality solutions to clients. I approach each project
-      with humility and dedication, always eager to learn and grow as a
-      developer.
+    Hello! I am a highly driven and passionate 3rd Year Undergrad at Nit Jalandhar ,majoring in Information & Technology Branch, with a strong interest in Algorithmic Problem Solving, Data Structures, and Algorithms. Currently, I am a 3⭐ coder at Leetcode, and have an institutional rank under 100 on Gfg coding platform.
+    Moreover, I've actively participated by making over a thousand contributions on GitHub, specifically focusing on daily practice problems related to Data Structures and Algorithms (DSA).
+    Proficient Full Stack Developer with expertise in Next JS, React JS, Tailwind, Material UI, Express, NodeJS, MongoDB for seamless web application development. Developed diverse full stack projects, including a blog application and a WhatsApp clone, showcasing proficiency in web development.
+    With my strong problem-solving skills, dedication, and passion, I am confident that I can contribute significantly to any organization I work with. I am eager to take on new challenges and learn from the best in the industry.
+    Thank you for taking the time to read about me, and I look forward to connecting with you!
     </div>
   </div>
 

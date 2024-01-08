@@ -39,18 +39,17 @@
     <NameAnimation />
   </div>
   <div
-    class="skewElem absolute bottom-16 flex flex-col mobile:left-1/2 mobile:-translate-x-full text-primary text-3xl font-bold mobile:text-xl"
+    class="skewElem absolute bottom-16 flex flex-col mobile:left-1/2 mobile:-translate-x-full text-primary text-5xl font-bold mobile:text-xl"
   >
-    <h1>I also go by Marsian</h1>
+    <!-- <h1>I also go by Marsian</h1> -->
     <h1 class="flex flex-row gap-3">
-      <span>and</span> <span>I'm</span> <span>a</span>
+       <span>I'm</span> <span>a</span>
       <CyclingText
         cycle={[
           "Passionate Programmer",
-          "Blockchain Developer",
-          "UI/UX Designer",
-          "Web Developer",
-          "Graphics Designer",
+          " Full Stack Web Developer",
+          "Competitive Coder",
+          "Tech Enthusiast",
         ]}
         color="random"
       />
