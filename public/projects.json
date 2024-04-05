@@ -57,9 +57,10 @@
       "technology": "MERN Stack webapp",
       "highlights": [
         
-        "Whatsapp Redo is a full fledged messaging app with real time chat and group chat",
-        "Real-time messaging functionalities, enhancing user engagement within the application using React, Node.js, and Socket.io.",
-       " Responsive user interface, with a focus on user experience and accessibility."
+        "MERN Stack: Leveraging MongoDB, Express.js, React, and Node.js for building a dynamic and efficient blog platform.",
+        " JWT Authentication: Implementing JSON Web Tokens (JWT) for secure user authentication, ensuring user credentials are encrypted and authenticated for secure access to the blog application.",
+       "   Real-time Updates: Incorporating real-time updates for new posts and comments using technologies like WebSockets or Server-Sent Events to keep users engaged and connected.",
+        "Responsive Design: Ensuring a responsive user interface that adapts seamlessly to various devices and screen sizes, enhancing user experience and accessibility"
       ],
       "source": {
         "type": "github",
