@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Leetcode Lite",
+    "technology": "MERN Stack ",
+    "highlights": [
+      "Leetcode Clone is a full fledged coding platform with a code editor and a leaderboard",
+        " Developed a LeetCode clone using React, Next.js, and Firebase, allowing user account creation and DSA problem-solving.",
+        "Overcame challenges in Navbar management for enhanced user navigation and experience.",
+        "Implemented a robust system for managing likes and dislikes with transactional operations, addressing data consistency, and resolved hydration errors for accurate dynamic content rendering."
+
+    ],
+    "source": {
+      "type": "github",
+      "url": "https://github.com/Tushar-022/Leetcode-Lite"
+    },
+    "demo": {
+      "type": "devfolio",
+      "url": "https://leetcode-lite-delta.vercel.app/",
+      "tooltip": "view on vercel"
+    },
+    "gallery": [
+      "/screens/laptop/trustpoint/1.webp.png",
+      "/screens/laptop/trustpoint/2.webp.png",
+      "/screens/laptop/trustpoint/3.webp.png",
+      "/screens/laptop/trustpoint/4.webp.png",
+      "/screens/laptop/trustpoint/5.webp.png"
+    ]
+  },
+  {
+    "name": "Whatsapp Redo",
+    "technology": "MERN Stack webapp",
+    "highlights": [
+      
+      "Whatsapp Redo is a full fledged messaging app with real time chat and group chat",
+      "Real-time messaging functionalities, enhancing user engagement within the application using React, Node.js, and Socket.io.",
+     " Responsive user interface, with a focus on user experience and accessibility."
+    ],
+    "source": {
+      "type": "github",
+      "url": "https://github.com/Tushar-022/Whatsapp-Clone"
+    },
+    "demo": {
+      "type": "devfolio",
+      "url": "https://whatsapp-beta-woad.vercel.app/",
+      "tooltip": "view on vercel"
+    },
+    "gallery": [
+      "/screens/laptop/trustpoint/7.jpeg",
+      "/screens/laptop/trustpoint/8.jpeg",
+      "/screens/laptop/trustpoint/9.jpeg"
+    ]
+    
+  }
+]
