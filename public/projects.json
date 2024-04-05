@@ -50,5 +50,32 @@
       "/screens/laptop/trustpoint/9.jpeg"
     ]
     
+  },
+  {
+    
+      "name": "Blog Application",
+      "technology": "MERN Stack webapp",
+      "highlights": [
+        
+        "Whatsapp Redo is a full fledged messaging app with real time chat and group chat",
+        "Real-time messaging functionalities, enhancing user engagement within the application using React, Node.js, and Socket.io.",
+       " Responsive user interface, with a focus on user experience and accessibility."
+      ],
+      "source": {
+        "type": "github",
+        "url": "https://github.com/Tushar-022/blog-app"
+      },
+      "demo": {
+        "type": "devfolio",
+        "url": "https://blog-app-gules-psi.vercel.app/",
+        "tooltip": "view on vercel"
+      },
+      "gallery": [
+        "/screens/laptop/trustpoint/13.png",
+        "/screens/laptop/trustpoint/11.jpeg",
+        "/screens/laptop/trustpoint/12.jpeg",
+        "/screens/laptop/trustpoint/10.jpeg"
+      ]
   }
+  
 ]
