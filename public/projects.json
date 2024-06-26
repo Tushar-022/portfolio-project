@@ -25,7 +25,102 @@
       "/screens/laptop/trustpoint/4.webp.png",
       "/screens/laptop/trustpoint/5.webp.png"
     ]
+  },{
+    "name": "Sahayak - Your Satisfaction, Our Priority",
+    "technology": "React.js, Redux Toolkit, Python, FastAPI, OpenAI Whisper, LLM, Amazon Polly, Chroma DB",
+    "highlights": [
+      "In TOP 60 projects in 2024 Amazon Hackathon",
+      "Voice-based customer service application with multilingual support for Amazon.",
+      "Automated voice call assistant for more natural user interactions compared to traditional chatbots.",
+      "Category-based queries for quick and accurate responses.",
+      "Contextual responses with accent adaptation for enhanced user experience.",
+      "Sentiment analysis to generate responses based on user's current mood.",
+      "Integrated with OpenAI's Whisper for voice-to-text conversion and sentiment analysis.",
+      "Text to audio conversion using Amazon Polly for delivering responses in user's preferred language and accent.",
+      "Architecture supports efficient handling of queries and responses through various technologies."
+    ],
+    "source": {
+      "type": "github",
+      "url": "https://github.com/Tushar-022/vcsHackon"
+    },
+    "demo": {
+      "type": "youtube",
+      "url": "https://youtu.be/kjU2W9N35rs",
+      "tooltip": "Watch demo on YouTube"
+    },
+    "gallery": [
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/8089ce9d-80b8-42b9-a0bf-b3d24ec1518e",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/e5d25a1f-f7f3-4db6-b762-081f23b12c50",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/6f7f0ec7-5f83-498b-ba52-c01398abcb2f",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/dadcf169-5c79-4bbd-996d-5d95c57faf77",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/d31bb650-2cf9-467d-bc2f-fab743ecba59",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/ed48c412-adc4-425c-9af5-215cb1806a29",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/01c2195c-8a1f-4625-9b87-e9057f79d35b",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/1970e99a-b830-4926-91b2-5d2529940173",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/360dd9c0-833a-4e5f-b560-6b1bba9712bf",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/fe6eddc4-c884-4a30-a533-5d8a06336b86",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/92ccb3a6-d069-412c-90ac-9f878725f246",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/1130f318-c1a7-4eb1-ba3d-b7455e84fec2",
+      "https://github.com/Tushar-022/vcsHackon/assets/100035802/356c2c65-9fe0-437b-b3cb-e90f0d298274",
+      "https://github.com/Tushar-022/vcsHackon/assets/96460114/a353bdd1-6a50-41af-a3bd-7494804858c8",
+      "https://github.com/Tushar-022/vcsHackon/assets/96460114/63437f53-84bc-403f-a3ed-8c6ea6acb00a"
+    ]
+},{
+  "name": "TK-Commerce App",
+  "technology": "Flutter",
+  "highlights": [
+      "E-commerce application built with Flutter, featuring login/registration and shopping functionalities.",
+      "Implemented professional app configurations including light and dark themes, helper functions, constants, and utility classes.",
+      "Developed comprehensive E-commerce UI/UX with a bottom navigation bar, custom app bar, search widget, scrolling categories, banners with sliders, product grid layout, wishlist, settings, profile, and product details screens.",
+      "Integrated cart functionality, checkout process, orders screen, sub-categories, view all products, view all brands, and brand-specific products.",
+      "Backend integration with Firebase Authentication for user management, Firestore for data storage, and Cloud Firebase for profile pictures.",
+      "Implemented state management for optimizing Firestore reads and writes, category and subcategory fetching, banner redirection, product fetching, sorting, and wishlist management.",
+      "Developed functionality for adding/updating addresses, adding products to the cart, and managing the checkout process."
+  ],
+  "source": {
+      "type": "github",
+      "url": "https://github.com/Tushar-022/EcommerceStore"
   },
+  "demo": {
+      "type": "apk",
+      "url": "https://drive.google.com/file/d/1qDdYNMYKfNq1yAnhmhq-6Al7QqQRTOap/view?usp=sharing",
+      "tooltip": "Download APK"
+  },
+  "gallery": [
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/5312a238-57f3-4130-b470-356132aacf90",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/ea2edb14-db89-493f-bfa4-c71d9336f0ea",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/d9b463e3-bbef-4720-beea-2b031530e324",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/3236c43b-b081-4af6-80aa-43fd56bc2141",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/8980b82e-3fee-4d93-bc3a-fdd6ec03b990",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/4331f002-f2e4-4158-8d9e-c195d6917d72",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/8a4321c2-663f-4bc9-a932-396fb53cf6f7",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/fa8c7e5c-af20-4205-af85-5d1bcd95e27b",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/ffc4dfc9-fb21-4f55-b462-1ca8097fb31e",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/ae8228bd-fe11-4ed3-a1bc-6a46304b6cab",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/432c473e-97ba-4c35-9239-d28b77e1c524",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/5b3c6ab2-5ad3-472b-93e6-cf13690bf6a8",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/6f10e020-ee10-4a30-9dd9-242f3cc3d785",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/d63a6464-d3c4-4fa6-91dd-67e54d8ac138",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/a6c5317a-f41d-458f-a1d0-ecd0626ea2b3",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/97793567-fe08-488d-8f87-58cecdab44ec",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/717a0f3e-af11-41ee-91bb-6d24ff1a9ac0",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/fec5a4ef-008f-4255-a645-3e331224c6bc",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/99f2b8ef-2026-48ab-80c2-5249d45eae86",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/4854f1a2-7427-4ef6-b591-873bf8d492a9",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/222425be-77de-471b-9f73-108512f9e557",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/1d9d75ff-d5f5-4fef-9f2d-9b5194bfc2aa",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/f7e2199b-28c0-497d-a526-77bdd6a66f6f",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/a4ab8df3-d0e4-4118-a0c6-6b147ea7d356",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/93f7e74e-c015-449d-966a-94cd018399e4",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/c5d82079-ba33-4b96-9667-9f8a34bbb718",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/59c43ac2-8d59-41a8-a8f2-8326adb086a2",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/0f3651ed-6d56-45b0-9afd-3dfc6d741119",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/8bd27d53-4e35-440a-9e39-68ecbd6dd3b2",
+      "https://github.com/Tushar-022/EcommerceStore/assets/96460114/1e02e8ee-2245-4ee5-bf18-0dfca73ec25d"
+  ]
+},
+
+
   {
     "name": "Whatsapp Redo",
     "technology": "MERN Stack webapp",
@@ -40,12 +135,29 @@
       "url": "https://github.com/Tushar-022/Whatsapp-Clone"
     },
     "gallery": [
-      "/screens/laptop/trustpoint/1.webp.png",
-      "/screens/laptop/trustpoint/2.webp.png",
-      "/screens/laptop/trustpoint/3.webp.png",
-      "/screens/laptop/trustpoint/4.webp.png",
-      "/screens/laptop/trustpoint/5.webp.png"
+      "/screens/laptop/trustpoint/10.webp.jpg",
+      "/screens/laptop/trustpoint/11.webp.jpg"
     ]
     
-  }
+  },{
+    "name": "Blog Application",
+    "technology": "MERN Stack",
+    "highlights": [
+        "Built with MongoDB, Express.js, React, and Node.js for a dynamic and efficient blog platform.",
+        "Implemented JWT Authentication for secure user authentication, ensuring encrypted and authenticated access to the blog application.",
+        "Incorporated real-time updates for new posts and comments using technologies like WebSockets or Server-Sent Events to keep users engaged and connected.",
+        "Ensured a responsive user interface that adapts seamlessly to various devices and screen sizes, enhancing user experience and accessibility."
+    ],
+    "source": {
+        "type": "github",
+        "url": "https://github.com/Tushar-022/blog-app"
+    },
+    "gallery": [
+      "/screens/laptop/trustpoint/6.webp.jpg",
+      "/screens/laptop/trustpoint/7.webp.jpg",
+      "/screens/laptop/trustpoint/8.webp.jpg",
+      "/screens/laptop/trustpoint/9.webp.jpg"
+    ]
+}
+
 ]
