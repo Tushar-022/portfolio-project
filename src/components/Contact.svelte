@@ -1,9 +1,10 @@
 <section class="relative z-0 h-screen bg-black">
     <img
-      src="/contact_bg.jpg"
-      alt="bg"
-      class="absolute top-0 left-0 w-full h-full object-cover opacity-30 md:opacity-50 -z-1"
-    />
+    src="/contact_bg.jpg"
+    alt="bg"
+    class="absolute top-0 left-0 w-full h-full object-cover opacity-30 md:opacity-50 z-[-2]"
+  />
+  
   
     <div class="flex flex-col h-full items-center justify-evenly text-white">
       <div class="text-center flex flex-col gap-y-4 md:gap-y-10">
