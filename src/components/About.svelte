@@ -41,11 +41,13 @@
     <div
       class="py-12 font-semibold text-2xl p-page text-justify mobile:py-3 mobile:text-lg"
     >
-    Hello! I am a highly driven and passionate 3rd Year Undergrad at Nit Jalandhar ,majoring in Information & Technology Branch, with a strong interest in Algorithmic Problem Solving, Data Structures, and Algorithms. Currently, I am a 3⭐ coder at Leetcode, and have an institutional rank under 100 on Gfg coding platform.
-    Moreover, I've actively participated by making over a thousand contributions on GitHub, specifically focusing on daily practice problems related to Data Structures and Algorithms (DSA).
-    Proficient Full Stack Developer with expertise in Next JS, React JS, Tailwind, Material UI, Express, NodeJS, MongoDB for seamless web application development. Developed diverse full stack projects, including a blog application and a WhatsApp clone, showcasing proficiency in web development.
-    With my strong problem-solving skills, dedication, and passion, I am confident that I can contribute significantly to any organization I work with. I am eager to take on new challenges and learn from the best in the industry.
-    Thank you for taking the time to read about me, and I look forward to connecting with you!
+    Hello! I am a highly driven and passionate Final Year Undergrad at  Nit Jalandhar ,majoring in Information & Technology Branch, with a strong interest in Algorithmic Problem Solving, Data Structures, and Algorithms. I have achieved remarkable success in Programming, climbing up to the top 0.01%  Programmers in India, and securing a rank under 100 on HackWithInfy, the hackathon by Infosys across the country.
+
+I am proud to have ranked in the top 65 teams during Amazon Hackon 2024, a competition involving prestigious institutions including IITs and NITs. This achievement showcases my hard work, dedication, and passion for problem-solving.
+
+With my strong problem-solving skills, dedication, and passion, I am confident that I can contribute significantly to any organization I work with. I am eager to take on new challenges and learn from the best in the industry.
+
+Thank you for taking the time to read about me, and I look forward to connecting with you!
     </div>
   </div>
 

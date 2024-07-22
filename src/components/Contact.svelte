@@ -55,7 +55,7 @@
           </button>
           <button class="bg-gray-500 text-white px-8 py-3 text-lg rounded-full shadow-md hover:bg-gray-700 transition duration-300"
             on:click={() => {
-              window.open("https://drive.google.com/file/d/1tD4u3Z6BLXWS9aNC-Bvgs3GJKO3Zzknl/view?usp=sharing");
+              window.open("https://drive.google.com/file/d/1M5LkIbkh3MdtW9N5s4xQB5997neEGQrJ/view?usp=sharing");
             }}
             data-blobity-tooltip="View Resume"
           >

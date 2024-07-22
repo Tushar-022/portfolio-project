@@ -70,6 +70,11 @@
   const skills = [
     { name: "c", imageUrl: "/skills/c.webp", color: "#626bb9" },
     { name: "c++", imageUrl: "/skills/c++.webp", color: "#659ad1" },
+    {
+      name:"Python",
+      imageUrl:"/skills/python.webp",
+      color:"#003B57"
+    },
     { name: "html", imageUrl: "/skills/html.webp", color: "#fe7816" },
     { name: "css", imageUrl: "/skills/css.webp", color: "#2a65f0" },
     { name: "js", imageUrl: "/skills/js.webp", color: "#ffdf00" },
@@ -78,16 +83,33 @@
       imageUrl: "/skills/typescript.webp",
       color: "#3179c7",
     },
-    { name: "bootstrap", imageUrl: "/skills/bootstrap.webp", color: "#8b13fd" },
-    { name: "tailwind", imageUrl: "/skills/tailwind.webp", color: "#00c0cd" },
-    { name: "svelte", imageUrl: "/skills/svelte.webp", color: "#ff2a29" },
     { name: "react", imageUrl: "/skills/react.webp", color: "#05bfd5" },
-    { name: "vue", imageUrl: "/skills/vue.webp", color: "#41b782" },
+    { name: "next", imageUrl: "/skills/next.webp", color: "#222222" },
     { name: "nodejs", imageUrl: "/skills/nodejs.webp", color: "#8cc041" },
     { name: "express", imageUrl: "/skills/express.webp", color: "#494949" },
-    { name: "next", imageUrl: "/skills/next.webp", color: "#222222" },
     { name: "mysql", imageUrl: "/skills/mysql.webp", color: "#3d5d69" },
+    {
+      name:"Sqlite",
+      imageUrl:"/skills/sqlite.webp",
+      color:"#003B57"
+    },
     { name: "mongoDB", imageUrl: "/skills/mongoDB.webp", color: "#7ec684" },
+    {
+      name:"Django",
+      imageUrl:"/skills/django.webp",
+      color:"#092E20"
+    },
+   
+    {
+      name:"Docker",
+      imageUrl:"/skills/docker.webp",
+      color:"#2496ED"
+    },
+    
+    // { name: "bootstrap", imageUrl: "/skills/bootstrap.webp", color: "#8b13fd" },
+    { name: "tailwind", imageUrl: "/skills/tailwind.webp", color: "#00c0cd" },
+    { name: "svelte", imageUrl: "/skills/svelte.webp", color: "#ff2a29" },
+
     { name: "postman", imageUrl: "/skills/postman.webp", color: "#ee6d3f" },
     { name: "firebase", imageUrl: "/skills/firebase.webp", color: "#faa105" },
     { name: "redux", imageUrl: "/skills/redux.webp", color: "#764abb" },
