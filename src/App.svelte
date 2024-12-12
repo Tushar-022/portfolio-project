@@ -51,11 +51,7 @@
         .then((res) => res.blob())
         .then((res) => {
           const aElement = document.createElement("a");
-<<<<<<< HEAD
-          aElement.setAttribute("download", "Spandan-Barve-Resume.pdf");
-=======
           aElement.setAttribute("download", "Tushar-Khandelwal-Resume.pdf");
->>>>>>> 7db5511b0fd7d73b89a43eaf42e3f6c6b0edd2ca
           const href = URL.createObjectURL(res);
           aElement.href = href;
           // aElement.setAttribute('href', href);

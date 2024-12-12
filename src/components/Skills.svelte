@@ -105,6 +105,11 @@
       imageUrl:"/skills/docker.webp",
       color:"#2496ED"
     },
+    {
+      name:"Kubernetes",
+      imageUrl:"/skills/kubernetes.webp",
+      color:"#326CE5"
+    },
     
     // { name: "bootstrap", imageUrl: "/skills/bootstrap.webp", color: "#8b13fd" },
     { name: "tailwind", imageUrl: "/skills/tailwind.webp", color: "#00c0cd" },

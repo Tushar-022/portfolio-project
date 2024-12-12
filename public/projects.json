@@ -7,7 +7,6 @@
         " Developed a LeetCode clone using React, Next.js, and Firebase, allowing user account creation and DSA problem-solving.",
         "Overcame challenges in Navbar management for enhanced user navigation and experience.",
         "Implemented a robust system for managing likes and dislikes with transactional operations, addressing data consistency, and resolved hydration errors for accurate dynamic content rendering."
-
     ],
     "source": {
       "type": "github",
@@ -118,10 +117,7 @@
       "https://github.com/Tushar-022/EcommerceStore/assets/96460114/8bd27d53-4e35-440a-9e39-68ecbd6dd3b2",
       "https://github.com/Tushar-022/EcommerceStore/assets/96460114/1e02e8ee-2245-4ee5-bf18-0dfca73ec25d"
   ]
-},
-
-
-  {
+},{
     "name": "Whatsapp Redo",
     "technology": "MERN Stack webapp",
     "highlights": [
@@ -158,6 +154,29 @@
       "/screens/laptop/trustpoint/8.webp.jpg",
       "/screens/laptop/trustpoint/9.webp.jpg"
     ]
+},{
+  "name": "Cold Referral Generator",
+  "technology": "Generative AI and LLM-powered",
+  "highlights": [
+      "Built an end-to-end tool leveraging Generative AI and open-source LLM (Llama 3.1) to automate personalized referral request generation for job applications.",
+      "Integrated ChromaDB for accurate semantic search, matching job descriptions with portfolio skills and projects.",
+      "Utilized Groq for fast cloud-based inference, ensuring quick and efficient response times.",
+      "Implemented WebBaseLoader to scrape job details directly from career pages, providing accurate and up-to-date context for the referral requests.",
+      "Designed a profile database using `profile.csv` to dynamically pull relevant project links, showcasing skills and achievements in each request."
+  ],
+  "source": {
+      "type": "github",
+      "url": "https://lnkd.in/gyx9PXVU"
+  },
+  "demo": {
+    "type": "web-app",
+    "url": "https://codereferral-snnf2ejhta37ukia5qusjb.streamlit.app/",
+    "tooltip": "Explore the Cold Referral Generator"
+},
+  "gallery": [
+      "screens/laptop/trustpoint/codeReferral.png"
+  ]
 }
+
 
 ]
